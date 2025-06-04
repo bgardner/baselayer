@@ -42,5 +42,3 @@ Outfit Font
 
 The image in the theme screenshot and listed below is declared under GPL License, Version 3.0.
 License URL: https://www.gnu.org/licenses/gpl-3.0.html
-
-brian-gardner.jpg
